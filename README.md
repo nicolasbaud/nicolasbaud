@@ -1,16 +1,16 @@
-### Hi there 👋
+## 🥷 Hi! My name is [Nicolas](https://twitter.com/baud_nicolas)
 
-<!--
-**nicolasbaud/nicolasbaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://twitter.com/baud_nicolas">
+    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/baud_nicolas?style=for-the-badge&logo=twitter&color=00ACEE">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<a href="https://github.com/bezhanSalleh"><img alt="Git Stats" src="https://github-readme-stats-bezhansalleh.vercel.app/api?username=nicolasbaud&show_icons=true&count_private=true" align="right" height="150" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a full-stack developer, mainly working with Laravel & PHP. I work at [SwizCloud](https://swizcloud.fr) as an CEO !
+
+### 🔭 I'm currently working on...
+[![Evolving HCS CRM](https://github-readme-stats-bezhansalleh.vercel.app/api/pin/?username=nicolasbaud&repo=crm)](https://github.com/nicolasbaud/crm)
+- [SwizCloud](https://swizcloud.fr)
