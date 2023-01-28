@@ -7,10 +7,10 @@
   <img alt="Visitors" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=nicolasbaud&repo=github-visitors-badge&countColorcountColor&countColor=blue">
 </p>
 
-<a href="https://github.com/bezhanSalleh"><img alt="Git Stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=nicolasbaud&show_icons=true&include_all_commits=true&theme=github_dark" align="right" height="150" /></a>
+<a href="https://github.com/bezhanSalleh"><img alt="Git Stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=nicolasbaud&show_icons=true&include_all_commits=true&title_color=58A6FF&bg_color=0D1117&text_color=C3D1D9&icon_color=1F6FEB" align="right" height="150" /></a>
 
 
 I am a full-stack developer, mainly working with Laravel & PHP. I work at [SwizCloud](https://swizcloud.fr) as an CEO !
 
 ### 🔭
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nicolasbaud&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nicolasbaud&layout=compact&title_color=58A6FF&bg_color=0D1117&text_color=C3D1D9&icon_color=1F6FEB" />
