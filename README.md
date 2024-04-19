@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on SwizCLoud<br>👯 I have collaborate on HolyCloud<br>🌱 I’m currently learning eCom<br>💬 Ask me about all
+<div align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=nicolasbaud&data=followers,repositories,stars,commits&theme=dark">
+<!--<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,json,css,php,nodejs,js,mysql,laravel,bootstrap,tailwind,jquery,windows,bash,linux&includeNames=true&theme=dark" width="360">
+<img src="https://github-widgetbox.vercel.app/api/skills?tools=git,npm,redis,apache,aws,nginx,shopify,woocommerce,wordpress,yarn,docker&includeNames=true&theme=dark" width="360">-->
+</div>
 
 
 ## 🌐 Socials:
